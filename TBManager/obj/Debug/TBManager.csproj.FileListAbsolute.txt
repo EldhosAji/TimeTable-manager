@@ -1,0 +1,37 @@
+C:\Users\ELDHOS AJI\source\repos\TBManager\TBManager\bin\Debug\TBManager.exe.config
+C:\Users\ELDHOS AJI\source\repos\TBManager\TBManager\bin\Debug\TBManager.exe
+C:\Users\ELDHOS AJI\source\repos\TBManager\TBManager\bin\Debug\TBManager.pdb
+C:\Users\ELDHOS AJI\source\repos\TBManager\TBManager\obj\Debug\TBManager.csprojAssemblyReference.cache
+C:\Users\ELDHOS AJI\source\repos\TBManager\TBManager\obj\Debug\TBManager.Form1.resources
+C:\Users\ELDHOS AJI\source\repos\TBManager\TBManager\obj\Debug\TBManager.Properties.Resources.resources
+C:\Users\ELDHOS AJI\source\repos\TBManager\TBManager\obj\Debug\TBManager.csproj.GenerateResource.cache
+C:\Users\ELDHOS AJI\source\repos\TBManager\TBManager\obj\Debug\TBManager.csproj.CoreCompileInputs.cache
+C:\Users\ELDHOS AJI\source\repos\TBManager\TBManager\obj\Debug\TBManager.exe
+C:\Users\ELDHOS AJI\source\repos\TBManager\TBManager\obj\Debug\TBManager.pdb
+C:\Users\ELDHOS AJI\source\repos\TBManager\TBManager\obj\Debug\TBManager.home.resources
+C:\Users\ELDHOS AJI\source\repos\TBManager\TBManager\obj\Debug\TBManager.userhome.resources
+C:\Users\ELDHOS AJI\source\repos\TBManager\TBManager\bin\Debug\db.mdf
+C:\Users\ELDHOS AJI\source\repos\TBManager\TBManager\bin\Debug\db_log.ldf
+C:\Users\ELDHOS AJI\source\repos\TBManager\TBManager\obj\Debug\TBManager.data.resources
+C:\Users\ELDHOS AJI\source\repos\TBManager\TBManager\obj\Debug\TBManager.sel.resources
+C:\Users\ELDHOS AJI\source\repos\TBManager\TBManager\obj\Debug\TBManager.run.resources
+C:\Users\ELDHOS AJI\source\repos\TBManager\TBManager\obj\Debug\TBManager.shows.resources
+C:\Users\ELDHOS AJI\source\repos\TBManager\TBManager\obj\Debug\TBManager.code.resources
+G:\Projects\TBManager\TBManager\bin\Debug\db.mdf
+G:\Projects\TBManager\TBManager\bin\Debug\db_log.ldf
+G:\Projects\TBManager\TBManager\bin\Debug\TBManager.exe.config
+G:\Projects\TBManager\TBManager\bin\Debug\TBManager.exe
+G:\Projects\TBManager\TBManager\bin\Debug\TBManager.pdb
+G:\Projects\TBManager\TBManager\obj\Debug\TBManager.csprojAssemblyReference.cache
+G:\Projects\TBManager\TBManager\obj\Debug\TBManager.code.resources
+G:\Projects\TBManager\TBManager\obj\Debug\TBManager.data.resources
+G:\Projects\TBManager\TBManager\obj\Debug\TBManager.Form1.resources
+G:\Projects\TBManager\TBManager\obj\Debug\TBManager.home.resources
+G:\Projects\TBManager\TBManager\obj\Debug\TBManager.Properties.Resources.resources
+G:\Projects\TBManager\TBManager\obj\Debug\TBManager.run.resources
+G:\Projects\TBManager\TBManager\obj\Debug\TBManager.sel.resources
+G:\Projects\TBManager\TBManager\obj\Debug\TBManager.shows.resources
+G:\Projects\TBManager\TBManager\obj\Debug\TBManager.userhome.resources
+G:\Projects\TBManager\TBManager\obj\Debug\TBManager.csproj.GenerateResource.cache
+G:\Projects\TBManager\TBManager\obj\Debug\TBManager.exe
+G:\Projects\TBManager\TBManager\obj\Debug\TBManager.pdb
